@@ -17,6 +17,8 @@ if ($requestMethod === "GET" && count($route) == 1 && $route[0] === "user") {
     getUsers();
 } elseif ($requestMethod === "GET" && count($route) == 1 && $route[0] === "userlist") {
     getUserlist();
+} elseif ($requestMethod === "GET" && count($route) == 1 && $route[0] === "parents") {
+    getParents();
 } elseif ($requestMethod === "POST" && count($route) == 1 && $route[0] === "user") {
     createUser();
 } elseif ($requestMethod === "PUT" && count($route) == 2 && $route[0] === "user") {

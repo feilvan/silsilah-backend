@@ -144,3 +144,17 @@ function updateUser($id)
         echo json_encode(["message" => "No changes made"]);
     }
 }
+
+function getParents()
+{
+    $pdo = connectDatabase();
+    $stmt = $pdo->query("SELECT id, nama, suami, istri FROM user WHERE anak IS NOT NULL");
+    $parents = $stmt->fetchAll(PDO::FETCH_ASSOC);
+
+    if ($parents) {
+        echo json_encode($parents);
+    } else {
+        http_response_code(404);
+        echo json_encode(["message" => "No parents found"]);
+    }
+}
