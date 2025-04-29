@@ -1,0 +1,69 @@
+[23-Mar-2025 09:12:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'feip5616_bani_sidiq.users' doesn't exist in /home/feip5616/public_html/api.feilvan.art/src/controllers.php:23
+Stack trace:
+#0 /home/feip5616/public_html/api.feilvan.art/src/controllers.php(23): PDOStatement->execute()
+#1 /home/feip5616/public_html/api.feilvan.art/src/routes.php(10): createUser()
+#2 /home/feip5616/public_html/api.feilvan.art/index.php(5): require_once('/home/feip5616/...')
+#3 {main}
+  thrown in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 23
+[23-Mar-2025 09:12:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'feip5616_bani_sidiq.users' doesn't exist in /home/feip5616/public_html/api.feilvan.art/src/controllers.php:23
+Stack trace:
+#0 /home/feip5616/public_html/api.feilvan.art/src/controllers.php(23): PDOStatement->execute()
+#1 /home/feip5616/public_html/api.feilvan.art/src/routes.php(10): createUser()
+#2 /home/feip5616/public_html/api.feilvan.art/index.php(5): require_once('/home/feip5616/...')
+#3 {main}
+  thrown in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 23
+[23-Mar-2025 09:13:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'feip5616_bani_sidiq.users' doesn't exist in /home/feip5616/public_html/api.feilvan.art/src/controllers.php:23
+Stack trace:
+#0 /home/feip5616/public_html/api.feilvan.art/src/controllers.php(23): PDOStatement->execute()
+#1 /home/feip5616/public_html/api.feilvan.art/src/routes.php(10): createUser()
+#2 /home/feip5616/public_html/api.feilvan.art/index.php(5): require_once('/home/feip5616/...')
+#3 {main}
+  thrown in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 23
+[23-Mar-2025 09:14:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'feip5616_bani_sidiq.users' doesn't exist in /home/feip5616/public_html/api.feilvan.art/src/controllers.php:23
+Stack trace:
+#0 /home/feip5616/public_html/api.feilvan.art/src/controllers.php(23): PDOStatement->execute()
+#1 /home/feip5616/public_html/api.feilvan.art/src/routes.php(10): createUser()
+#2 /home/feip5616/public_html/api.feilvan.art/index.php(5): require_once('/home/feip5616/...')
+#3 {main}
+  thrown in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 23
+[23-Mar-2025 09:16:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'feip5616_bani_sidiq.users' doesn't exist in /home/feip5616/public_html/api.feilvan.art/src/controllers.php:23
+Stack trace:
+#0 /home/feip5616/public_html/api.feilvan.art/src/controllers.php(23): PDOStatement->execute()
+#1 /home/feip5616/public_html/api.feilvan.art/src/routes.php(10): createUser()
+#2 /home/feip5616/public_html/api.feilvan.art/index.php(5): require_once('/home/feip5616/...')
+#3 {main}
+  thrown in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 23
+[23-Mar-2025 09:16:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'feip5616_bani_sidiq.users' doesn't exist in /home/feip5616/public_html/api.feilvan.art/src/controllers.php:23
+Stack trace:
+#0 /home/feip5616/public_html/api.feilvan.art/src/controllers.php(23): PDOStatement->execute()
+#1 /home/feip5616/public_html/api.feilvan.art/src/routes.php(10): createUser()
+#2 /home/feip5616/public_html/api.feilvan.art/index.php(5): require_once('/home/feip5616/...')
+#3 {main}
+  thrown in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 23
+[23-Mar-2025 09:18:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'feip5616_bani_sidiq.users' doesn't exist in /home/feip5616/public_html/api.feilvan.art/src/controllers.php:23
+Stack trace:
+#0 /home/feip5616/public_html/api.feilvan.art/src/controllers.php(23): PDOStatement->execute()
+#1 /home/feip5616/public_html/api.feilvan.art/src/routes.php(10): createUser()
+#2 /home/feip5616/public_html/api.feilvan.art/index.php(5): require_once('/home/feip5616/...')
+#3 {main}
+  thrown in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 23
+[23-Mar-2025 09:44:18 UTC] PHP Warning:  Undefined array key "anakKe" in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 25
+[23-Mar-2025 09:44:18 UTC] PHP Warning:  Undefined array key "alamat" in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 25
+[23-Mar-2025 09:44:18 UTC] PHP Warning:  Undefined array key "suami" in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 25
+[23-Mar-2025 09:44:18 UTC] PHP Warning:  Undefined array key "istri" in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 25
+[23-Mar-2025 09:44:18 UTC] PHP Warning:  Array to string conversion in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 25
+[23-Mar-2025 09:44:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 4025 CONSTRAINT `user.anak` failed for `feip5616_bani_sidiq`.`user` in /home/feip5616/public_html/api.feilvan.art/src/controllers.php:25
+Stack trace:
+#0 /home/feip5616/public_html/api.feilvan.art/src/controllers.php(25): PDOStatement->execute()
+#1 /home/feip5616/public_html/api.feilvan.art/src/routes.php(10): createUser()
+#2 /home/feip5616/public_html/api.feilvan.art/index.php(5): require_once('/home/feip5616/...')
+#3 {main}
+  thrown in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 25
+[23-Mar-2025 09:47:00 UTC] PHP Warning:  Undefined array key "anakKe" in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 25
+[23-Mar-2025 09:47:00 UTC] PHP Warning:  Undefined array key "alamat" in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 25
+[23-Mar-2025 09:47:00 UTC] PHP Warning:  Undefined array key "suami" in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 25
+[23-Mar-2025 09:47:00 UTC] PHP Warning:  Undefined array key "istri" in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 25
+[23-Mar-2025 14:26:46 UTC] PHP Warning:  Undefined array key "anakKe" in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 45
+[23-Mar-2025 14:26:46 UTC] PHP Warning:  Undefined array key "suami" in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 45
+[23-Mar-2025 14:26:46 UTC] PHP Warning:  Undefined array key "istri" in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 45
+[23-Mar-2025 14:26:46 UTC] PHP Warning:  Undefined array key "anak" in /home/feip5616/public_html/api.feilvan.art/src/controllers.php on line 45
